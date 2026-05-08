@@ -1,0 +1,3130 @@
+[
+  {
+    "id": "c001",
+    "make": "Toyota",
+    "model": "Camry",
+    "variant": "LE",
+    "year": 2024,
+    "price": 28500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 203,
+    "mileage": 15.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "ABS",
+      "Lane Assist",
+      "Apple CarPlay",
+      "Adaptive Cruise Control"
+    ],
+    "pros": ["Reliable engine", "Great resale value", "Smooth ride"],
+    "cons": ["Plain interior", "No AWD option", "Road noise at highway speeds"],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=Camry+LE",
+    "reviews": [
+      {
+        "author": "John D.",
+        "rating": 4.5,
+        "title": "Great daily driver",
+        "body": "Bought this for my commute and love it. Fuel economy is stellar and the ride is smooth."
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 4.0,
+        "title": "Solid but boring",
+        "body": "Does everything well but lacks excitement. Interior could use some personality."
+      },
+      {
+        "author": "Mike R.",
+        "rating": 4.8,
+        "title": "Best sedan for the money",
+        "body": "Third Camry I've owned. They just keep getting better. Can't beat Toyota reliability."
+      }
+    ]
+  },
+  {
+    "id": "c002",
+    "make": "Toyota",
+    "model": "Camry",
+    "variant": "XLE Hybrid",
+    "year": 2024,
+    "price": 33500,
+    "bodyType": "sedan",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 208,
+    "mileage": 22.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "ABS",
+      "Lane Assist",
+      "Wireless Charging",
+      "Sunroof",
+      "Leather Seats"
+    ],
+    "pros": ["Excellent fuel economy", "Premium features", "Quiet cabin"],
+    "cons": [
+      "Trunk space reduced by battery",
+      "Higher price than base",
+      "CVT feel"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=Camry+Hybrid",
+    "reviews": [
+      {
+        "author": "Lisa K.",
+        "rating": 4.7,
+        "title": "Hybrid game changer",
+        "body": "Getting 50+ mpg in the city. The hybrid system is seamless and the car feels premium."
+      },
+      {
+        "author": "David W.",
+        "rating": 4.3,
+        "title": "Smart purchase",
+        "body": "Saves me so much on gas. Wish the trunk was a bit bigger though."
+      }
+    ]
+  },
+  {
+    "id": "c003",
+    "make": "Toyota",
+    "model": "RAV4",
+    "variant": "XLE",
+    "year": 2025,
+    "price": 32500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 203,
+    "mileage": 13.2,
+    "seatingCapacity": 5,
+    "safetyRating": 4.7,
+    "features": [
+      "AWD",
+      "ABS",
+      "Lane Assist",
+      "Blind Spot Monitor",
+      "Apple CarPlay"
+    ],
+    "pros": ["Top safety ratings", "Spacious cargo area", "AWD standard"],
+    "cons": ["Underpowered engine", "Firm ride", "Wind noise"],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=RAV4+XLE",
+    "reviews": [
+      {
+        "author": "Karen P.",
+        "rating": 4.8,
+        "title": "Perfect family SUV",
+        "body": "Fits everything we need. Car seats, stroller, groceries — plenty of room."
+      },
+      {
+        "author": "Tom B.",
+        "rating": 4.5,
+        "title": "Safe and practical",
+        "body": "Bought it for the safety ratings. Not the fastest but does everything well."
+      }
+    ]
+  },
+  {
+    "id": "c004",
+    "make": "Toyota",
+    "model": "RAV4",
+    "variant": "Prime XSE",
+    "year": 2025,
+    "price": 43500,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 302,
+    "mileage": 17.0,
+    "seatingCapacity": 5,
+    "safetyRating": 4.8,
+    "features": [
+      "AWD",
+      "Plug-in Hybrid",
+      "ABS",
+      "JBL Audio",
+      "Panoramic Sunroof"
+    ],
+    "pros": ["302 hp is quick", "42 miles EV range", "Premium interior"],
+    "cons": ["Expensive", "Limited availability", "Reduced cargo vs standard"],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=RAV4+Prime",
+    "reviews": [
+      {
+        "author": "Alex J.",
+        "rating": 4.9,
+        "title": "Best PHEV on the market",
+        "body": "I barely use gas anymore. 42 miles of EV covers my daily commute entirely."
+      }
+    ]
+  },
+  {
+    "id": "c005",
+    "make": "Toyota",
+    "model": "Corolla",
+    "variant": "SE",
+    "year": 2024,
+    "price": 23500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 169,
+    "mileage": 14.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": ["ABS", "Apple CarPlay", "Android Auto", "LED Headlights"],
+    "pros": ["Affordable", "Great fuel economy", "Sporty SE styling"],
+    "cons": ["Tight rear seats", "Road noise", "Small trunk"],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=Corolla+SE",
+    "reviews": [
+      {
+        "author": "Emma S.",
+        "rating": 4.2,
+        "title": "Perfect first car",
+        "body": "Affordable, reliable, and gets great gas mileage. Everything a first car should be."
+      },
+      {
+        "author": "Chris L.",
+        "rating": 4.0,
+        "title": "No complaints",
+        "body": "Basic transportation done right. Nothing flashy but it just works."
+      }
+    ]
+  },
+  {
+    "id": "c006",
+    "make": "Toyota",
+    "model": "Highlander",
+    "variant": "Limited",
+    "year": 2025,
+    "price": 48000,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 243,
+    "mileage": 15.7,
+    "seatingCapacity": 7,
+    "safetyRating": 4.7,
+    "features": [
+      "AWD",
+      "Third Row",
+      "Leather Seats",
+      "JBL Audio",
+      "Panoramic Sunroof",
+      "360 Camera"
+    ],
+    "pros": ["Third row seating", "Hybrid efficiency", "Loaded with features"],
+    "cons": ["Third row is tight for adults", "Pricey", "Not sporty"],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=Highlander",
+    "reviews": [
+      {
+        "author": "Jennifer A.",
+        "rating": 4.6,
+        "title": "Family hauler",
+        "body": "Upgraded from a minivan. Kids love it, and I love the fuel economy for an SUV."
+      }
+    ]
+  },
+  {
+    "id": "c007",
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "EX",
+    "year": 2024,
+    "price": 26200,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1500,
+    "horsepower": 180,
+    "mileage": 14.9,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": ["ABS", "Sunroof", "Apple CarPlay", "Honda Sensing Suite"],
+    "pros": ["Fun to drive", "Great interior design", "Excellent safety tech"],
+    "cons": ["Turbo lag at low RPM", "Road noise", "No AWD"],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=Civic+EX",
+    "reviews": [
+      {
+        "author": "Ryan T.",
+        "rating": 4.6,
+        "title": "Best compact sedan",
+        "body": "The interior is class-leading. Feels like a car that costs $10K more."
+      },
+      {
+        "author": "Amy C.",
+        "rating": 4.4,
+        "title": "Fun and practical",
+        "body": "Zippy turbo engine and great tech. My favorite car I've owned."
+      }
+    ]
+  },
+  {
+    "id": "c008",
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "Sport Touring Hatchback",
+    "year": 2024,
+    "price": 30800,
+    "bodyType": "hatchback",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1500,
+    "horsepower": 180,
+    "mileage": 14.0,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": [
+      "ABS",
+      "Bose Audio",
+      "Wireless CarPlay",
+      "Heated Seats",
+      "Hatchback Cargo"
+    ],
+    "pros": ["Versatile hatchback", "Premium audio", "Great handling"],
+    "cons": ["Firm ride", "Engine drone", "Pricey for a Civic"],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=Civic+Hatch",
+    "reviews": [
+      {
+        "author": "Brian M.",
+        "rating": 4.5,
+        "title": "Hatchback perfection",
+        "body": "The cargo space is amazing. Folding the seats gives SUV-like room."
+      }
+    ]
+  },
+  {
+    "id": "c009",
+    "make": "Honda",
+    "model": "CR-V",
+    "variant": "EX-L",
+    "year": 2025,
+    "price": 36500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1500,
+    "horsepower": 190,
+    "mileage": 12.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "ABS",
+      "Leather Seats",
+      "Power Tailgate",
+      "Wireless CarPlay"
+    ],
+    "pros": ["Spacious interior", "Smooth ride", "Great visibility"],
+    "cons": ["Turbo lag", "CVT can be noisy", "No third row"],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=CR-V+EXL",
+    "reviews": [
+      {
+        "author": "Nancy W.",
+        "rating": 4.4,
+        "title": "Comfortable cruiser",
+        "body": "Perfect size for our family of four. Smooth ride and tons of cargo space."
+      },
+      {
+        "author": "Steve H.",
+        "rating": 4.6,
+        "title": "Top of the class",
+        "body": "Best compact SUV you can buy. Honda really nailed the redesign."
+      }
+    ]
+  },
+  {
+    "id": "c010",
+    "make": "Honda",
+    "model": "CR-V",
+    "variant": "Sport Hybrid",
+    "year": 2025,
+    "price": 38600,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 204,
+    "mileage": 17.4,
+    "seatingCapacity": 5,
+    "safetyRating": 4.7,
+    "features": ["AWD", "Hybrid", "ABS", "Wireless Charging", "Heated Seats"],
+    "pros": ["Excellent hybrid fuel economy", "Refined ride", "Standard AWD"],
+    "cons": [
+      "Higher base price",
+      "Engine can be buzzy under load",
+      "Smaller spare tire"
+    ],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=CR-V+Hybrid",
+    "reviews": [
+      {
+        "author": "Patricia G.",
+        "rating": 4.5,
+        "title": "Hybrid done right",
+        "body": "The transition between electric and gas is seamless. Highly recommend."
+      }
+    ]
+  },
+  {
+    "id": "c011",
+    "make": "Honda",
+    "model": "Accord",
+    "variant": "Sport Hybrid",
+    "year": 2024,
+    "price": 33990,
+    "bodyType": "sedan",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 204,
+    "mileage": 20.4,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "ABS",
+      "Google Built-in",
+      "Wireless CarPlay",
+      "Heated Seats",
+      "Adaptive Dampers"
+    ],
+    "pros": ["Excellent hybrid mpg", "Spacious interior", "Sharp handling"],
+    "cons": [
+      "No AWD",
+      "Numb steering feel",
+      "Hood blocks forward view for short drivers"
+    ],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=Accord+Hybrid",
+    "reviews": [
+      {
+        "author": "Kevin R.",
+        "rating": 4.7,
+        "title": "The sedan benchmark",
+        "body": "Everything about this car is well-thought-out. Best mid-size sedan period."
+      },
+      {
+        "author": "Diane F.",
+        "rating": 4.4,
+        "title": "Quiet and efficient",
+        "body": "Gets amazing gas mileage without feeling slow. Very happy with my purchase."
+      }
+    ]
+  },
+  {
+    "id": "c012",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "variant": "SEL",
+    "year": 2025,
+    "price": 31500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 187,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": ["ABS", "Digital Key", "Blind Spot Monitor", "Apple CarPlay"],
+    "pros": ["Bold styling", "Generous warranty", "Feature-rich for the price"],
+    "cons": [
+      "Engine feels sluggish",
+      "Firm seats on long drives",
+      "No hybrid in base"
+    ],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Tucson+SEL",
+    "reviews": [
+      {
+        "author": "Maria L.",
+        "rating": 4.3,
+        "title": "Great value SUV",
+        "body": "So many features for the price. The 5-year warranty sealed the deal for me."
+      },
+      {
+        "author": "James K.",
+        "rating": 4.1,
+        "title": "Stylish and practical",
+        "body": "Love the design. Gets plenty of looks. Interior is well-made."
+      }
+    ]
+  },
+  {
+    "id": "c013",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "variant": "Hybrid Blue",
+    "year": 2025,
+    "price": 34250,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 1600,
+    "horsepower": 226,
+    "mileage": 16.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": ["AWD", "Hybrid", "ABS", "Heated Seats", "Remote Start"],
+    "pros": ["Great hybrid efficiency", "AWD standard", "Spacious cabin"],
+    "cons": [
+      "Hybrid system jerky at low speeds",
+      "No sunroof in base hybrid",
+      "Infotainment learning curve"
+    ],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Tucson+Hybrid",
+    "reviews": [
+      {
+        "author": "Susan P.",
+        "rating": 4.5,
+        "title": "Eco-friendly family car",
+        "body": "Love not stopping at the gas station as often. Great car for suburban life."
+      }
+    ]
+  },
+  {
+    "id": "c014",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "variant": "N",
+    "year": 2024,
+    "price": 34500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "manual",
+    "engineCapacityCC": 2000,
+    "horsepower": 276,
+    "mileage": 10.6,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "ABS",
+      "N Performance Seats",
+      "Launch Control",
+      "Rev Matching",
+      "Drive Modes"
+    ],
+    "pros": [
+      "Thrilling performance",
+      "Manual transmission available",
+      "Track-capable"
+    ],
+    "cons": ["Harsh ride in sport mode", "Poor fuel economy", "Loud cabin"],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Elantra+N",
+    "reviews": [
+      {
+        "author": "Derek H.",
+        "rating": 4.8,
+        "title": "Budget sports car",
+        "body": "276 hp with a manual? Yes please. This car punches way above its weight on a track."
+      },
+      {
+        "author": "Megan T.",
+        "rating": 4.3,
+        "title": "Daily + weekend warrior",
+        "body": "Fun on back roads and still practical enough for commuting."
+      }
+    ]
+  },
+  {
+    "id": "c015",
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "variant": "Long Range AWD",
+    "year": 2025,
+    "price": 52000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 320,
+    "mileage": 5.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.8,
+    "features": [
+      "AWD",
+      "Vehicle-to-Load",
+      "Fast Charging",
+      "Digital Side Mirrors",
+      "Relaxation Seats"
+    ],
+    "pros": [
+      "Ultra-fast charging",
+      "Retro-futuristic design",
+      "Spacious interior"
+    ],
+    "cons": ["Range drops in cold weather", "No frunk", "Pricey"],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Ioniq+5",
+    "reviews": [
+      {
+        "author": "Paul N.",
+        "rating": 4.7,
+        "title": "Future is here",
+        "body": "18 min to 80% charge is insane. Best EV experience outside of Tesla."
+      },
+      {
+        "author": "Laura B.",
+        "rating": 4.6,
+        "title": "Head-turner",
+        "body": "Everyone asks about this car. The design is unlike anything else on the road."
+      }
+    ]
+  },
+  {
+    "id": "c016",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "variant": "Calligraphy",
+    "year": 2025,
+    "price": 44500,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 1600,
+    "horsepower": 226,
+    "mileage": 14.9,
+    "seatingCapacity": 7,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "Third Row",
+      "Nappa Leather",
+      "Surround View Camera",
+      "Digital Key"
+    ],
+    "pros": ["Striking new design", "Third row seating", "Feature-loaded"],
+    "cons": [
+      "Third row cramped",
+      "Hybrid-only in some trims",
+      "Polarizing looks"
+    ],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Santa+Fe",
+    "reviews": [
+      {
+        "author": "Robert C.",
+        "rating": 4.4,
+        "title": "Bold choice",
+        "body": "The design is love-it-or-hate-it. I love it. Drives beautifully too."
+      }
+    ]
+  },
+  {
+    "id": "c017",
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "SX Turbo",
+    "year": 2025,
+    "price": 29500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1600,
+    "horsepower": 195,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "AWD",
+      "ABS",
+      "Bose Audio",
+      "Sunroof",
+      "Heated Steering Wheel"
+    ],
+    "pros": ["Peppy turbo engine", "Premium audio", "Good ground clearance"],
+    "cons": ["Firm ride", "Small cargo area", "Fuel economy could be better"],
+    "imageUrl": "https://placehold.co/400x250/533483/eee?text=Seltos+SX",
+    "reviews": [
+      {
+        "author": "Tyler V.",
+        "rating": 4.2,
+        "title": "Punchy little SUV",
+        "body": "Turbo makes this way more fun than expected. Great for city driving."
+      },
+      {
+        "author": "Hannah J.",
+        "rating": 4.0,
+        "title": "Good value",
+        "body": "Lots of features for under $30K. Can't complain at this price point."
+      }
+    ]
+  },
+  {
+    "id": "c018",
+    "make": "Kia",
+    "model": "Sportage",
+    "variant": "X-Pro",
+    "year": 2025,
+    "price": 37500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 187,
+    "mileage": 11.9,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "AWD",
+      "ABS",
+      "Skid Plates",
+      "All-Terrain Tires",
+      "Dual Panoramic Display"
+    ],
+    "pros": ["Off-road capability", "Stunning dual screen", "Bold design"],
+    "cons": [
+      "Fuel economy average",
+      "Engine lacks power off-road",
+      "Pricey X-Pro trim"
+    ],
+    "imageUrl": "https://placehold.co/400x250/533483/eee?text=Sportage+XPro",
+    "reviews": [
+      {
+        "author": "Connor M.",
+        "rating": 4.4,
+        "title": "Adventure ready",
+        "body": "Took it on forest trails and it handled everything. Great daily driver too."
+      }
+    ]
+  },
+  {
+    "id": "c019",
+    "make": "Kia",
+    "model": "EV6",
+    "variant": "GT-Line AWD",
+    "year": 2025,
+    "price": 56000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 320,
+    "mileage": 5.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.7,
+    "features": [
+      "AWD",
+      "Fast Charging",
+      "ABS",
+      "Augmented Reality HUD",
+      "Vehicle-to-Load"
+    ],
+    "pros": [
+      "Blistering acceleration",
+      "18-min fast charge",
+      "Gorgeous design"
+    ],
+    "cons": [
+      "Limited range vs competitors",
+      "Rear visibility",
+      "Premium price"
+    ],
+    "imageUrl": "https://placehold.co/400x250/533483/eee?text=EV6+GT",
+    "reviews": [
+      {
+        "author": "Olivia S.",
+        "rating": 4.8,
+        "title": "Electric thrill ride",
+        "body": "The acceleration is addictive. Best-looking EV on the road."
+      },
+      {
+        "author": "Nathan R.",
+        "rating": 4.5,
+        "title": "Game changer",
+        "body": "Switched from a gas SUV and don't miss it at all. Charging is super fast."
+      }
+    ]
+  },
+  {
+    "id": "c020",
+    "make": "Kia",
+    "model": "K5",
+    "variant": "GT",
+    "year": 2024,
+    "price": 31500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 290,
+    "mileage": 11.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "ABS",
+      "GT Sport Seats",
+      "Dual Exhaust",
+      "Launch Control",
+      "Brembo Brakes"
+    ],
+    "pros": [
+      "290 hp is seriously quick",
+      "Head-turning looks",
+      "Well-priced for the power"
+    ],
+    "cons": ["No AWD", "Fuel economy poor", "Ride can be stiff"],
+    "imageUrl": "https://placehold.co/400x250/533483/eee?text=K5+GT",
+    "reviews": [
+      {
+        "author": "Jason F.",
+        "rating": 4.5,
+        "title": "Sleeper sedan",
+        "body": "Nobody expects a Kia to be this fast. Blows away the competition."
+      }
+    ]
+  },
+  {
+    "id": "c021",
+    "make": "Mazda",
+    "model": "3",
+    "variant": "Turbo Hatchback",
+    "year": 2024,
+    "price": 27800,
+    "bodyType": "hatchback",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 250,
+    "mileage": 11.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": ["AWD", "ABS", "Bose Audio", "Heated Seats", "Head-Up Display"],
+    "pros": [
+      "Premium feel for the price",
+      "AWD + turbo combo",
+      "Beautiful interior"
+    ],
+    "cons": [
+      "Tight rear seat",
+      "Limited cargo",
+      "Infotainment lacks touchscreen"
+    ],
+    "imageUrl": "https://placehold.co/400x250/e94560/fff?text=Mazda3+Turbo",
+    "reviews": [
+      {
+        "author": "Rachel W.",
+        "rating": 4.6,
+        "title": "Hidden gem",
+        "body": "Feels like a luxury car inside. The turbo AWD combo is addictive."
+      },
+      {
+        "author": "Mark D.",
+        "rating": 4.3,
+        "title": "Driver's car",
+        "body": "Best handling in its class. The interior is stunning. Just wish the back seat was bigger."
+      }
+    ]
+  },
+  {
+    "id": "c022",
+    "make": "Mazda",
+    "model": "CX-5",
+    "variant": "Turbo Signature",
+    "year": 2025,
+    "price": 40500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 256,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": ["AWD", "ABS", "Nappa Leather", "Bose Audio", "360 Camera"],
+    "pros": [
+      "Near-luxury interior",
+      "Strong turbo engine",
+      "Excellent build quality"
+    ],
+    "cons": [
+      "Dated infotainment",
+      "No plug-in option",
+      "Less cargo than rivals"
+    ],
+    "imageUrl": "https://placehold.co/400x250/e94560/fff?text=CX-5+Turbo",
+    "reviews": [
+      {
+        "author": "Angela F.",
+        "rating": 4.5,
+        "title": "Luxury without the badge",
+        "body": "Interior rivals German SUVs at half the price. Love the Nappa leather."
+      }
+    ]
+  },
+  {
+    "id": "c023",
+    "make": "Mazda",
+    "model": "CX-50",
+    "variant": "Turbo Premium Plus",
+    "year": 2025,
+    "price": 43000,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 256,
+    "mileage": 11.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": [
+      "AWD",
+      "ABS",
+      "Terracotta Leather",
+      "Panoramic Sunroof",
+      "Off-Road Mode"
+    ],
+    "pros": ["Rugged outdoor styling", "Powerful turbo", "Premium interior"],
+    "cons": ["Fuel economy average", "Tight rear headroom", "No third row"],
+    "imageUrl": "https://placehold.co/400x250/e94560/fff?text=CX-50+Turbo",
+    "reviews": [
+      {
+        "author": "Brett N.",
+        "rating": 4.3,
+        "title": "Outdoorsy luxury",
+        "body": "Perfect for weekend camping trips. Looks rugged but drives like a luxury car."
+      },
+      {
+        "author": "Emily H.",
+        "rating": 4.1,
+        "title": "Almost perfect",
+        "body": "Love the design. Just wish the fuel economy was better."
+      }
+    ]
+  },
+  {
+    "id": "c024",
+    "make": "Mazda",
+    "model": "MX-5 Miata",
+    "variant": "Grand Touring",
+    "year": 2024,
+    "price": 34000,
+    "bodyType": "coupe",
+    "fuelType": "petrol",
+    "transmission": "manual",
+    "engineCapacityCC": 2000,
+    "horsepower": 181,
+    "mileage": 13.2,
+    "seatingCapacity": 2,
+    "safetyRating": 3.8,
+    "features": [
+      "ABS",
+      "Bilstein Dampers",
+      "Brembo Brakes",
+      "BBS Wheels",
+      "Recaro Seats"
+    ],
+    "pros": ["Pure driving joy", "Manual transmission", "Lightweight handling"],
+    "cons": ["Tiny cargo space", "Only 2 seats", "Not practical for daily use"],
+    "imageUrl": "https://placehold.co/400x250/e94560/fff?text=MX-5+Miata",
+    "reviews": [
+      {
+        "author": "Charlie G.",
+        "rating": 5.0,
+        "title": "Driving nirvana",
+        "body": "Nothing puts a bigger smile on your face. Pure analog driving at its best."
+      },
+      {
+        "author": "Sophia R.",
+        "rating": 4.5,
+        "title": "Weekend toy",
+        "body": "Not practical but I don't care. Every drive feels like an event."
+      }
+    ]
+  },
+  {
+    "id": "c025",
+    "make": "Ford",
+    "model": "Maverick",
+    "variant": "XLT Hybrid",
+    "year": 2025,
+    "price": 28500,
+    "bodyType": "truck",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 191,
+    "mileage": 17.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "ABS",
+      "Hybrid Powertrain",
+      "FLEXBED",
+      "Co-Pilot360",
+      "Apple CarPlay"
+    ],
+    "pros": [
+      "Best fuel economy in a truck",
+      "Affordable",
+      "Useful bed features"
+    ],
+    "cons": [
+      "Not great for heavy towing",
+      "Rear seat is tight",
+      "Limited off-road ability"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=Maverick+Hybrid",
+    "reviews": [
+      {
+        "author": "Greg S.",
+        "rating": 4.6,
+        "title": "Truck for everyone",
+        "body": "Finally a truck that gets 40 mpg. Perfect for Home Depot runs and daily commuting."
+      },
+      {
+        "author": "Linda T.",
+        "rating": 4.3,
+        "title": "Smart buy",
+        "body": "Never thought I'd own a truck, but the Maverick makes so much sense."
+      }
+    ]
+  },
+  {
+    "id": "c026",
+    "make": "Ford",
+    "model": "Bronco Sport",
+    "variant": "Badlands",
+    "year": 2025,
+    "price": 38500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 250,
+    "mileage": 10.6,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": ["AWD", "ABS", "Trail Control", "GOAT Modes", "Safari Roof"],
+    "pros": [
+      "Real off-road chops",
+      "Unique styling",
+      "Trail Control is brilliant"
+    ],
+    "cons": [
+      "Fuel economy poor",
+      "Road noise on highway",
+      "Interior could be nicer"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=Bronco+Sport",
+    "reviews": [
+      {
+        "author": "Jake L.",
+        "rating": 4.4,
+        "title": "Weekend warrior",
+        "body": "Took it on Moab trails. This thing is no joke off-road. Handles like a champ."
+      }
+    ]
+  },
+  {
+    "id": "c027",
+    "make": "Ford",
+    "model": "Mustang",
+    "variant": "EcoBoost Premium",
+    "year": 2024,
+    "price": 36000,
+    "bodyType": "coupe",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2300,
+    "horsepower": 315,
+    "mileage": 10.6,
+    "seatingCapacity": 4,
+    "safetyRating": 4.0,
+    "features": [
+      "ABS",
+      "Performance Package",
+      "Digital Dash",
+      "MagneRide Dampers"
+    ],
+    "pros": ["315 hp turbo-four", "Iconic styling", "Great daily sports car"],
+    "cons": ["Rear seat useless", "Trunk is small", "Gas guzzler"],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=Mustang+Eco",
+    "reviews": [
+      {
+        "author": "Anthony B.",
+        "rating": 4.5,
+        "title": "Affordable muscle",
+        "body": "EcoBoost is more than enough power for daily driving. Looks like a million bucks."
+      },
+      {
+        "author": "Chloe M.",
+        "rating": 4.2,
+        "title": "Dream car",
+        "body": "Always wanted a Mustang. The turbo-four is surprisingly fun."
+      }
+    ]
+  },
+  {
+    "id": "c028",
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "variant": "Premium AWD",
+    "year": 2025,
+    "price": 49000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 346,
+    "mileage": 5.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "15.5\" Touchscreen",
+      "BlueCruise",
+      "Glass Roof",
+      "Fast Charging"
+    ],
+    "pros": [
+      "Instant torque",
+      "Huge touchscreen",
+      "BlueCruise hands-free driving"
+    ],
+    "cons": [
+      "Range drops in cold",
+      "Not a real Mustang to purists",
+      "Build quality inconsistent"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=Mach-E",
+    "reviews": [
+      {
+        "author": "Victor Z.",
+        "rating": 4.3,
+        "title": "Electric and fun",
+        "body": "Fast, practical, and turns heads. The big screen is incredible."
+      }
+    ]
+  },
+  {
+    "id": "c029",
+    "make": "Ford",
+    "model": "F-150",
+    "variant": "XLT SuperCrew",
+    "year": 2025,
+    "price": 48000,
+    "bodyType": "truck",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2700,
+    "horsepower": 325,
+    "mileage": 9.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": [
+      "ABS",
+      "Pro Power Onboard",
+      "Max Recline Seats",
+      "Tow Tech Package"
+    ],
+    "pros": [
+      "Best-selling truck for a reason",
+      "Pro Power is a game changer",
+      "Comfortable cabin"
+    ],
+    "cons": ["Fuel economy poor", "Expensive as optioned", "Massive footprint"],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=F-150+XLT",
+    "reviews": [
+      {
+        "author": "Wayne P.",
+        "rating": 4.6,
+        "title": "Built Ford Tough",
+        "body": "Best truck I've owned. Pro Power lets me run tools on the job site right from the truck."
+      }
+    ]
+  },
+  {
+    "id": "c030",
+    "make": "Chevrolet",
+    "model": "Equinox EV",
+    "variant": "2LT",
+    "year": 2025,
+    "price": 35000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 215,
+    "mileage": 6.4,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "ABS",
+      "17.7\" Diagonal Screen",
+      "Super Cruise",
+      "One Pedal Driving"
+    ],
+    "pros": [
+      "Affordable EV",
+      "Great range for the price",
+      "Super Cruise available"
+    ],
+    "cons": ["Not the quickest", "New model, limited reviews", "FWD base only"],
+    "imageUrl": "https://placehold.co/400x250/2d4059/eee?text=Equinox+EV",
+    "reviews": [
+      {
+        "author": "Christine A.",
+        "rating": 4.4,
+        "title": "EV for the masses",
+        "body": "Finally an electric SUV under $35K with real range. Chevy nailed it."
+      },
+      {
+        "author": "Daniel E.",
+        "rating": 4.2,
+        "title": "Great first EV",
+        "body": "Super Cruise is amazing on road trips. Easy to live with daily."
+      }
+    ]
+  },
+  {
+    "id": "c031",
+    "make": "Chevrolet",
+    "model": "Trax",
+    "variant": "RS",
+    "year": 2025,
+    "price": 22500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1200,
+    "horsepower": 137,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.1,
+    "features": [
+      "ABS",
+      "11\" Touchscreen",
+      "Wireless CarPlay",
+      "Chevy Safety Assist"
+    ],
+    "pros": [
+      "Incredible value",
+      "Big screen for the price",
+      "Good city maneuverability"
+    ],
+    "cons": ["Underpowered", "No AWD", "Basic interior materials"],
+    "imageUrl": "https://placehold.co/400x250/2d4059/eee?text=Trax+RS",
+    "reviews": [
+      {
+        "author": "Ashley C.",
+        "rating": 4.0,
+        "title": "Budget king",
+        "body": "Can't believe what you get for $22K. Perfect city car."
+      }
+    ]
+  },
+  {
+    "id": "c032",
+    "make": "Chevrolet",
+    "model": "Blazer EV",
+    "variant": "RS AWD",
+    "year": 2025,
+    "price": 56000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 557,
+    "mileage": 4.7,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": ["AWD", "Fast Charging", "Super Cruise", "ABS", "Bose Audio"],
+    "pros": ["557 hp is insane", "Premium interior", "Super Cruise hands-free"],
+    "cons": [
+      "Very expensive",
+      "Heavy weight",
+      "Charging infrastructure still growing"
+    ],
+    "imageUrl": "https://placehold.co/400x250/2d4059/eee?text=Blazer+EV",
+    "reviews": [
+      {
+        "author": "Marcus J.",
+        "rating": 4.3,
+        "title": "Electric muscle SUV",
+        "body": "0-60 in 4 seconds in an SUV. The future is electric and it's fast."
+      }
+    ]
+  },
+  {
+    "id": "c033",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "variant": "LT Trail Boss",
+    "year": 2025,
+    "price": 52000,
+    "bodyType": "truck",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 5300,
+    "horsepower": 355,
+    "mileage": 8.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "4WD",
+      "ABS",
+      "Off-Road Suspension",
+      "Skid Plates",
+      "Dual Exhaust"
+    ],
+    "pros": ["V8 power", "Real off-road capability", "Spacious crew cab"],
+    "cons": ["Terrible fuel economy", "Pricey", "Rides rough on pavement"],
+    "imageUrl": "https://placehold.co/400x250/2d4059/eee?text=Silverado+TB",
+    "reviews": [
+      {
+        "author": "Russell H.",
+        "rating": 4.5,
+        "title": "Beast mode",
+        "body": "V8 sounds incredible and the Trail Boss handles trails easily. Love this truck."
+      }
+    ]
+  },
+  {
+    "id": "c034",
+    "make": "BMW",
+    "model": "3 Series",
+    "variant": "330i xDrive",
+    "year": 2024,
+    "price": 47000,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 255,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "AWD",
+      "ABS",
+      "iDrive 8",
+      "Wireless CarPlay",
+      "M Sport Package"
+    ],
+    "pros": [
+      "Best driving dynamics in class",
+      "Premium iDrive system",
+      "AWD confidence"
+    ],
+    "cons": [
+      "Expensive options",
+      "Stiff ride with M Sport",
+      "Subscription services"
+    ],
+    "imageUrl": "https://placehold.co/400x250/0d7377/eee?text=BMW+330i",
+    "reviews": [
+      {
+        "author": "William R.",
+        "rating": 4.6,
+        "title": "The ultimate sedan",
+        "body": "Best handling sedan you can buy. iDrive 8 is finally good. Worth every penny."
+      },
+      {
+        "author": "Jessica N.",
+        "rating": 4.3,
+        "title": "Luxury daily",
+        "body": "Makes my commute something I look forward to. Beautiful car inside and out."
+      }
+    ]
+  },
+  {
+    "id": "c035",
+    "make": "BMW",
+    "model": "X3",
+    "variant": "xDrive30i",
+    "year": 2025,
+    "price": 50000,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 248,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "ABS",
+      "Panoramic Sunroof",
+      "Harman Kardon Audio",
+      "Gesture Control"
+    ],
+    "pros": [
+      "Sporty handling for an SUV",
+      "Premium interior",
+      "Great all-rounder"
+    ],
+    "cons": [
+      "Base price climbs fast with options",
+      "Firm ride",
+      "Dated turn signal stalk"
+    ],
+    "imageUrl": "https://placehold.co/400x250/0d7377/eee?text=BMW+X3",
+    "reviews": [
+      {
+        "author": "Andrew K.",
+        "rating": 4.5,
+        "title": "Best compact luxury SUV",
+        "body": "Drives like a sport sedan. Interior is gorgeous. X3 sets the standard."
+      }
+    ]
+  },
+  {
+    "id": "c036",
+    "make": "BMW",
+    "model": "iX",
+    "variant": "xDrive50",
+    "year": 2025,
+    "price": 85000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 516,
+    "mileage": 4.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.8,
+    "features": [
+      "AWD",
+      "Shy Tech",
+      "Crystal iDrive Knob",
+      "Curved Display",
+      "Harman Kardon 3D Audio"
+    ],
+    "pros": ["Whisper quiet", "Ultra-premium interior", "516 hp is effortless"],
+    "cons": ["Very expensive", "Polarizing exterior design", "Heavy vehicle"],
+    "imageUrl": "https://placehold.co/400x250/0d7377/eee?text=BMW+iX",
+    "reviews": [
+      {
+        "author": "Victoria L.",
+        "rating": 4.7,
+        "title": "Electric luxury flagship",
+        "body": "The quietest, most comfortable car I've ever driven. Like a living room on wheels."
+      }
+    ]
+  },
+  {
+    "id": "c037",
+    "make": "BMW",
+    "model": "4 Series",
+    "variant": "430i Coupe",
+    "year": 2024,
+    "price": 50500,
+    "bodyType": "coupe",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 255,
+    "mileage": 12.3,
+    "seatingCapacity": 4,
+    "safetyRating": 4.3,
+    "features": [
+      "ABS",
+      "M Sport Package",
+      "Adaptive LED Headlights",
+      "Wireless Charging"
+    ],
+    "pros": [
+      "Stunning coupe design",
+      "Engaging driving dynamics",
+      "Powerful turbo-four"
+    ],
+    "cons": ["Controversial grille", "Rear seat nearly unusable", "Expensive"],
+    "imageUrl": "https://placehold.co/400x250/0d7377/eee?text=BMW+430i",
+    "reviews": [
+      {
+        "author": "Nicholas P.",
+        "rating": 4.4,
+        "title": "Head turner",
+        "body": "Love it or hate the grille, this car drives beautifully. Best BMW coupe in years."
+      }
+    ]
+  },
+  {
+    "id": "c038",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "variant": "C 300 4MATIC",
+    "year": 2024,
+    "price": 49000,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 255,
+    "mileage": 11.9,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": ["AWD", "ABS", "MBUX", "Burmester Audio", "Ambient Lighting"],
+    "pros": ["Mini S-Class interior", "MBUX is class-leading", "Smooth ride"],
+    "cons": [
+      "No physical buttons",
+      "Options add up quickly",
+      "Rear seat not spacious"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3c1642/eee?text=C300+4MATIC",
+    "reviews": [
+      {
+        "author": "Stephanie M.",
+        "rating": 4.5,
+        "title": "Baby S-Class",
+        "body": "Interior is stunning. The ambient lighting alone makes you feel special."
+      },
+      {
+        "author": "George T.",
+        "rating": 4.3,
+        "title": "Luxury benchmark",
+        "body": "Smooth, quiet, and loaded with tech. Exactly what I expected from Mercedes."
+      }
+    ]
+  },
+  {
+    "id": "c039",
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "variant": "GLC 300 4MATIC",
+    "year": 2025,
+    "price": 52000,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 258,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.7,
+    "features": [
+      "AWD",
+      "ABS",
+      "MBUX",
+      "Panoramic Sunroof",
+      "Burmester Audio",
+      "Head-Up Display"
+    ],
+    "pros": [
+      "Refined driving experience",
+      "Gorgeous interior",
+      "Advanced safety tech"
+    ],
+    "cons": [
+      "Pricey as configured",
+      "Infotainment learning curve",
+      "Stiff ride in Sport mode"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3c1642/eee?text=GLC+300",
+    "reviews": [
+      {
+        "author": "Rebecca K.",
+        "rating": 4.6,
+        "title": "Premium perfection",
+        "body": "Everything about this SUV feels premium. Worth the price for the quality."
+      }
+    ]
+  },
+  {
+    "id": "c040",
+    "make": "Mercedes-Benz",
+    "model": "EQB",
+    "variant": "EQB 300 4MATIC",
+    "year": 2025,
+    "price": 54000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 225,
+    "mileage": 5.5,
+    "seatingCapacity": 7,
+    "safetyRating": 4.5,
+    "features": ["AWD", "Third Row", "MBUX", "Fast Charging", "ABS"],
+    "pros": ["7 seats in an EV", "Mercedes luxury", "Good range"],
+    "cons": [
+      "Third row only for kids",
+      "Not the fastest EV",
+      "Expensive for the size"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3c1642/eee?text=EQB+300",
+    "reviews": [
+      {
+        "author": "Thomas W.",
+        "rating": 4.2,
+        "title": "Electric family hauler",
+        "body": "Only 7-seat EV in this segment. Third row is tight but works for kids."
+      }
+    ]
+  },
+  {
+    "id": "c041",
+    "make": "Audi",
+    "model": "A4",
+    "variant": "Premium Plus 45 TFSI",
+    "year": 2024,
+    "price": 46000,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 261,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "AWD",
+      "ABS",
+      "Virtual Cockpit",
+      "Bang & Olufsen Audio",
+      "Matrix LED"
+    ],
+    "pros": [
+      "Quattro AWD confidence",
+      "Virtual Cockpit is brilliant",
+      "Understated luxury"
+    ],
+    "cons": [
+      "Due for redesign",
+      "Infotainment not intuitive",
+      "Costly maintenance"
+    ],
+    "imageUrl": "https://placehold.co/400x250/7a0bc0/eee?text=Audi+A4",
+    "reviews": [
+      {
+        "author": "Catherine Y.",
+        "rating": 4.4,
+        "title": "Quiet confidence",
+        "body": "Doesn't scream for attention but everything about it is well-executed."
+      },
+      {
+        "author": "Eric S.",
+        "rating": 4.2,
+        "title": "All-weather sedan",
+        "body": "Quattro AWD makes this unstoppable in winter. Great year-round car."
+      }
+    ]
+  },
+  {
+    "id": "c042",
+    "make": "Audi",
+    "model": "Q5",
+    "variant": "Premium Plus 45 TFSI",
+    "year": 2025,
+    "price": 52500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 261,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "ABS",
+      "Panoramic Sunroof",
+      "Virtual Cockpit",
+      "Heated Seats"
+    ],
+    "pros": ["Best-in-class interior quality", "Smooth ride", "Quattro AWD"],
+    "cons": ["Expensive options", "Conservative styling", "Not sporty feeling"],
+    "imageUrl": "https://placehold.co/400x250/7a0bc0/eee?text=Audi+Q5",
+    "reviews": [
+      {
+        "author": "Jonathan G.",
+        "rating": 4.5,
+        "title": "Refined SUV",
+        "body": "The Q5 does everything well. Interior is a class above. Quattro is confidence-inspiring."
+      }
+    ]
+  },
+  {
+    "id": "c043",
+    "make": "Audi",
+    "model": "Q4 e-tron",
+    "variant": "Premium Plus",
+    "year": 2025,
+    "price": 50000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 295,
+    "mileage": 5.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "ABS",
+      "Augmented Reality HUD",
+      "Matrix LED",
+      "Sonos Audio"
+    ],
+    "pros": [
+      "Augmented reality HUD is incredible",
+      "Audi build quality",
+      "Good range"
+    ],
+    "cons": [
+      "Not as quick as competitors",
+      "Capacitive buttons frustrating",
+      "Expensive"
+    ],
+    "imageUrl": "https://placehold.co/400x250/7a0bc0/eee?text=Q4+e-tron",
+    "reviews": [
+      {
+        "author": "Sharon D.",
+        "rating": 4.4,
+        "title": "Luxury EV done right",
+        "body": "The AR HUD is mind-blowing. Typical Audi quality with zero emissions."
+      }
+    ]
+  },
+  {
+    "id": "c044",
+    "make": "Tesla",
+    "model": "Model 3",
+    "variant": "Long Range AWD",
+    "year": 2025,
+    "price": 43000,
+    "bodyType": "sedan",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 346,
+    "mileage": 6.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.8,
+    "features": [
+      "AWD",
+      "Autopilot",
+      "15\" Touchscreen",
+      "Glass Roof",
+      "Sentry Mode"
+    ],
+    "pros": [
+      "Best EV range in class",
+      "Supercharger network",
+      "Over-the-air updates"
+    ],
+    "cons": ["Build quality inconsistent", "No CarPlay", "Service can be slow"],
+    "imageUrl": "https://placehold.co/400x250/cc0000/fff?text=Model+3+LR",
+    "reviews": [
+      {
+        "author": "Michael Z.",
+        "rating": 4.7,
+        "title": "The EV standard",
+        "body": "Supercharger network makes road trips easy. Range is outstanding."
+      },
+      {
+        "author": "Amanda R.",
+        "rating": 4.4,
+        "title": "Tech on wheels",
+        "body": "Love the updates. Car keeps getting better over time."
+      },
+      {
+        "author": "Justin H.",
+        "rating": 4.1,
+        "title": "Great but imperfect",
+        "body": "Panel gaps annoyed me at first but the driving experience makes up for it."
+      }
+    ]
+  },
+  {
+    "id": "c045",
+    "make": "Tesla",
+    "model": "Model Y",
+    "variant": "Long Range AWD",
+    "year": 2025,
+    "price": 48000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 346,
+    "mileage": 6.0,
+    "seatingCapacity": 5,
+    "safetyRating": 4.8,
+    "features": [
+      "AWD",
+      "Autopilot",
+      "Camp Mode",
+      "Glass Roof",
+      "Power Liftgate"
+    ],
+    "pros": [
+      "Best-selling EV globally",
+      "Huge cargo space",
+      "Supercharger network"
+    ],
+    "cons": [
+      "Ride quality on rough roads",
+      "No CarPlay/Android Auto",
+      "Panel gaps"
+    ],
+    "imageUrl": "https://placehold.co/400x250/cc0000/fff?text=Model+Y+LR",
+    "reviews": [
+      {
+        "author": "Sandra K.",
+        "rating": 4.6,
+        "title": "Family EV king",
+        "body": "Fits our whole family plus gear for camping trips. Love Camp Mode."
+      },
+      {
+        "author": "Keith M.",
+        "rating": 4.3,
+        "title": "Most practical EV",
+        "body": "SUV practicality with EV efficiency. Hard combo to beat."
+      }
+    ]
+  },
+  {
+    "id": "c046",
+    "make": "Tesla",
+    "model": "Model 3",
+    "variant": "Standard Range Plus",
+    "year": 2025,
+    "price": 39000,
+    "bodyType": "sedan",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 271,
+    "mileage": 7.2,
+    "seatingCapacity": 5,
+    "safetyRating": 4.7,
+    "features": [
+      "ABS",
+      "Autopilot",
+      "15\" Touchscreen",
+      "Regenerative Braking"
+    ],
+    "pros": [
+      "Most affordable Tesla",
+      "Great range for the price",
+      "Minimal maintenance"
+    ],
+    "cons": [
+      "Rear-wheel drive only",
+      "Sparse interior",
+      "No instrument cluster"
+    ],
+    "imageUrl": "https://placehold.co/400x250/cc0000/fff?text=Model+3+SR",
+    "reviews": [
+      {
+        "author": "Nicole W.",
+        "rating": 4.3,
+        "title": "Entry to Tesla",
+        "body": "Great value for an EV. Miss AWD sometimes in winter but overall very happy."
+      }
+    ]
+  },
+  {
+    "id": "c047",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "variant": "SEL",
+    "year": 2024,
+    "price": 25500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1500,
+    "horsepower": 158,
+    "mileage": 14.0,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "ABS",
+      "Digital Cockpit Pro",
+      "Wireless CarPlay",
+      "Ventilated Seats"
+    ],
+    "pros": [
+      "German engineering at a budget price",
+      "Spacious trunk",
+      "Good fuel economy"
+    ],
+    "cons": [
+      "Not exciting to drive",
+      "Basic interior materials",
+      "CVT feels sluggish"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3f72af/eee?text=Jetta+SEL",
+    "reviews": [
+      {
+        "author": "Patrick O.",
+        "rating": 4.1,
+        "title": "Solid commuter",
+        "body": "Does its job well. Good fuel economy and the trunk is huge for a compact."
+      },
+      {
+        "author": "Michelle R.",
+        "rating": 4.0,
+        "title": "Value play",
+        "body": "VW quality at a competitive price. Not thrilling but very competent."
+      }
+    ]
+  },
+  {
+    "id": "c048",
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "variant": "SE R-Line",
+    "year": 2025,
+    "price": 36500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 184,
+    "mileage": 11.5,
+    "seatingCapacity": 7,
+    "safetyRating": 4.4,
+    "features": ["AWD", "ABS", "Third Row", "Digital Cockpit", "IQ.DRIVE"],
+    "pros": [
+      "Third row available",
+      "European driving feel",
+      "R-Line looks sharp"
+    ],
+    "cons": [
+      "Third row very cramped",
+      "Engine could use more power",
+      "Premium fuel recommended"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3f72af/eee?text=Tiguan+SE",
+    "reviews": [
+      {
+        "author": "Christina B.",
+        "rating": 4.3,
+        "title": "European value",
+        "body": "Drives like a VW should — solid and composed. Third row is a bonus."
+      }
+    ]
+  },
+  {
+    "id": "c049",
+    "make": "Volkswagen",
+    "model": "ID.4",
+    "variant": "Pro S Plus AWD",
+    "year": 2025,
+    "price": 46000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 295,
+    "mileage": 5.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": ["AWD", "ABS", "12\" Infotainment", "IQ.DRIVE", "Heat Pump"],
+    "pros": ["Comfortable ride", "Good range", "Spacious interior"],
+    "cons": [
+      "Infotainment is laggy",
+      "Styling is bland",
+      "Slower charging than Hyundai/Kia"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3f72af/eee?text=ID.4+Pro",
+    "reviews": [
+      {
+        "author": "Raymond G.",
+        "rating": 4.2,
+        "title": "Comfortable EV",
+        "body": "Best ride quality of any EV I've tested. Just wish the infotainment was faster."
+      }
+    ]
+  },
+  {
+    "id": "c050",
+    "make": "Subaru",
+    "model": "Outback",
+    "variant": "Limited",
+    "year": 2025,
+    "price": 37500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 182,
+    "mileage": 11.9,
+    "seatingCapacity": 5,
+    "safetyRating": 4.7,
+    "features": ["AWD", "ABS", "EyeSight", "Leather Seats", "X-MODE"],
+    "pros": ["Standard AWD", "EyeSight safety suite", "Wagon-like cargo space"],
+    "cons": [
+      "CVT drones under load",
+      "Underpowered base engine",
+      "Infotainment dated"
+    ],
+    "imageUrl": "https://placehold.co/400x250/0b8457/eee?text=Outback+Ltd",
+    "reviews": [
+      {
+        "author": "Kenneth L.",
+        "rating": 4.4,
+        "title": "Adventure wagon",
+        "body": "Standard AWD + high ground clearance = unstoppable in all conditions."
+      },
+      {
+        "author": "Paula F.",
+        "rating": 4.5,
+        "title": "Safety first",
+        "body": "EyeSight has saved me from at least two potential accidents. Worth it for safety alone."
+      }
+    ]
+  },
+  {
+    "id": "c051",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "variant": "Premium",
+    "year": 2025,
+    "price": 30000,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 182,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": ["AWD", "ABS", "EyeSight", "X-MODE", "Roof Rails"],
+    "pros": ["Best value AWD SUV", "High ground clearance", "Great visibility"],
+    "cons": ["Slow acceleration", "Road noise", "Basic interior"],
+    "imageUrl": "https://placehold.co/400x250/0b8457/eee?text=Crosstrek",
+    "reviews": [
+      {
+        "author": "Deborah N.",
+        "rating": 4.3,
+        "title": "All-weather warrior",
+        "body": "Never worried about snow or rain. AWD standard is a huge plus."
+      }
+    ]
+  },
+  {
+    "id": "c052",
+    "make": "Subaru",
+    "model": "Forester",
+    "variant": "Touring",
+    "year": 2025,
+    "price": 38000,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 180,
+    "mileage": 11.9,
+    "seatingCapacity": 5,
+    "safetyRating": 4.8,
+    "features": [
+      "AWD",
+      "ABS",
+      "EyeSight",
+      "Panoramic Sunroof",
+      "Harman Kardon Audio",
+      "Nappa Leather"
+    ],
+    "pros": ["Top safety pick+", "Massive visibility", "Standard AWD"],
+    "cons": ["Underpowered", "CVT drone", "Not sporty at all"],
+    "imageUrl": "https://placehold.co/400x250/0b8457/eee?text=Forester+Tour",
+    "reviews": [
+      {
+        "author": "Gary M.",
+        "rating": 4.6,
+        "title": "Safest SUV I've owned",
+        "body": "IIHS Top Safety Pick+. Feel confident with my family in this car every day."
+      },
+      {
+        "author": "Carol D.",
+        "rating": 4.4,
+        "title": "Practical perfection",
+        "body": "Not exciting but does everything a family needs. Huge windows give great visibility."
+      }
+    ]
+  },
+  {
+    "id": "c053",
+    "make": "Nissan",
+    "model": "Altima",
+    "variant": "SV",
+    "year": 2024,
+    "price": 27500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 188,
+    "mileage": 13.6,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "ABS",
+      "ProPILOT Assist",
+      "Apple CarPlay",
+      "Zero Gravity Seats"
+    ],
+    "pros": [
+      "Comfortable Zero Gravity seats",
+      "AWD available",
+      "Good fuel economy"
+    ],
+    "cons": ["Boring to drive", "CVT saps enthusiasm", "Dated interior design"],
+    "imageUrl": "https://placehold.co/400x250/4a4e69/eee?text=Altima+SV",
+    "reviews": [
+      {
+        "author": "Barbara T.",
+        "rating": 4.0,
+        "title": "Comfortable commuter",
+        "body": "The Zero Gravity seats are no joke. Most comfortable car for long commutes."
+      }
+    ]
+  },
+  {
+    "id": "c054",
+    "make": "Nissan",
+    "model": "Rogue",
+    "variant": "SL",
+    "year": 2025,
+    "price": 38500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1500,
+    "horsepower": 201,
+    "mileage": 12.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "AWD",
+      "ABS",
+      "ProPILOT Assist",
+      "Bose Audio",
+      "Panoramic Sunroof"
+    ],
+    "pros": ["Comfortable ride", "Zero Gravity seats", "Good tech features"],
+    "cons": ["Engine is thrashy", "CVT gets noisy", "Not fun to drive"],
+    "imageUrl": "https://placehold.co/400x250/4a4e69/eee?text=Rogue+SL",
+    "reviews": [
+      {
+        "author": "Frank V.",
+        "rating": 4.2,
+        "title": "Improved Rogue",
+        "body": "Way better than the old one. Comfortable and feature-rich."
+      }
+    ]
+  },
+  {
+    "id": "c055",
+    "make": "Nissan",
+    "model": "LEAF",
+    "variant": "SV Plus",
+    "year": 2024,
+    "price": 36000,
+    "bodyType": "hatchback",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 214,
+    "mileage": 6.4,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": ["ABS", "e-Pedal", "ProPILOT Assist", "Around View Monitor"],
+    "pros": ["Proven EV reliability", "e-Pedal is fun", "Affordable EV"],
+    "cons": [
+      "No fast charging (CHAdeMO)",
+      "Dated design",
+      "Less range than competitors"
+    ],
+    "imageUrl": "https://placehold.co/400x250/4a4e69/eee?text=LEAF+SV",
+    "reviews": [
+      {
+        "author": "Martha J.",
+        "rating": 4.0,
+        "title": "OG electric",
+        "body": "Reliable and affordable. Battery is holding up after 2 years. Works great for city driving."
+      }
+    ]
+  },
+  {
+    "id": "c056",
+    "make": "Nissan",
+    "model": "Ariya",
+    "variant": "Evolve+ AWD",
+    "year": 2025,
+    "price": 55000,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 389,
+    "mileage": 5.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "AWD",
+      "ABS",
+      "ProPILOT Assist 2.0",
+      "Bose Audio",
+      "Panoramic Sunroof"
+    ],
+    "pros": [
+      "Premium interior",
+      "Smooth ride",
+      "Hands-free driving on highway"
+    ],
+    "cons": [
+      "Expensive",
+      "Slow charging vs Hyundai/Kia",
+      "Limited dealer support"
+    ],
+    "imageUrl": "https://placehold.co/400x250/4a4e69/eee?text=Ariya+AWD",
+    "reviews": [
+      {
+        "author": "Howard S.",
+        "rating": 4.3,
+        "title": "Nissan's comeback",
+        "body": "Beautiful inside and out. ProPILOT 2.0 is impressive on the highway."
+      }
+    ]
+  },
+  {
+    "id": "c057",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "variant": "Sahara 4xe",
+    "year": 2025,
+    "price": 55000,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 375,
+    "mileage": 10.2,
+    "seatingCapacity": 5,
+    "safetyRating": 3.8,
+    "features": [
+      "4WD",
+      "ABS",
+      "Removable Roof",
+      "Trail Rated",
+      "Plug-in Hybrid"
+    ],
+    "pros": [
+      "Iconic off-roader",
+      "375 hp plug-in hybrid",
+      "Removable doors and roof"
+    ],
+    "cons": ["On-road manners poor", "Wind noise at speed", "Expensive"],
+    "imageUrl": "https://placehold.co/400x250/606c38/eee?text=Wrangler+4xe",
+    "reviews": [
+      {
+        "author": "Craig A.",
+        "rating": 4.5,
+        "title": "The ultimate toy",
+        "body": "Nothing else lets you remove doors, roof, and go anywhere. Now with electric power!"
+      },
+      {
+        "author": "Beth R.",
+        "rating": 4.0,
+        "title": "Lifestyle vehicle",
+        "body": "Not the most practical but it's so much fun. EV mode for city commuting is great."
+      }
+    ]
+  },
+  {
+    "id": "c058",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "variant": "Summit 4xe",
+    "year": 2025,
+    "price": 68000,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 375,
+    "mileage": 11.1,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "4WD",
+      "ABS",
+      "Plug-in Hybrid",
+      "McIntosh Audio",
+      "Air Suspension",
+      "Night Vision"
+    ],
+    "pros": [
+      "Luxury-level interior",
+      "Excellent off-road",
+      "Plug-in hybrid efficiency"
+    ],
+    "cons": ["Very expensive", "Complex electronics", "Heavy vehicle"],
+    "imageUrl": "https://placehold.co/400x250/606c38/eee?text=Grand+Cherokee",
+    "reviews": [
+      {
+        "author": "Douglas K.",
+        "rating": 4.6,
+        "title": "Luxury off-roader",
+        "body": "McIntosh audio is unreal. Air suspension smooths out everything. Best Grand Cherokee ever."
+      }
+    ]
+  },
+  {
+    "id": "c059",
+    "make": "Jeep",
+    "model": "Compass",
+    "variant": "Limited",
+    "year": 2025,
+    "price": 35500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 200,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "AWD",
+      "ABS",
+      "UConnect 5",
+      "Leather Seats",
+      "Heated Steering Wheel"
+    ],
+    "pros": [
+      "Improved interior quality",
+      "Good value for a Jeep",
+      "Trail-rated available"
+    ],
+    "cons": ["Not great on fuel", "Dated platform", "Road noise"],
+    "imageUrl": "https://placehold.co/400x250/606c38/eee?text=Compass+Ltd",
+    "reviews": [
+      {
+        "author": "Tammy L.",
+        "rating": 4.1,
+        "title": "Entry-level Jeep",
+        "body": "Nice improvement over the old model. Interior is much better now."
+      }
+    ]
+  },
+  {
+    "id": "c060",
+    "make": "Honda",
+    "model": "Pilot",
+    "variant": "TrailSport",
+    "year": 2025,
+    "price": 44500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 3500,
+    "horsepower": 285,
+    "mileage": 10.6,
+    "seatingCapacity": 8,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "ABS",
+      "TrailWatch Camera",
+      "Wireless CarPlay",
+      "TrailSport Suspension"
+    ],
+    "pros": ["True 8-seat capacity", "Trail-ready", "Honda reliability"],
+    "cons": [
+      "Fuel economy not great",
+      "Pricey TrailSport trim",
+      "Third row access awkward"
+    ],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=Pilot+Trail",
+    "reviews": [
+      {
+        "author": "Wendy A.",
+        "rating": 4.5,
+        "title": "Family hauler + adventure",
+        "body": "Fits the whole family and handles dirt roads with confidence."
+      }
+    ]
+  },
+  {
+    "id": "c061",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "variant": "TRD Off-Road",
+    "year": 2025,
+    "price": 42000,
+    "bodyType": "truck",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2400,
+    "horsepower": 278,
+    "mileage": 10.2,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "4WD",
+      "ABS",
+      "Crawl Control",
+      "Multi-Terrain Select",
+      "Locking Rear Diff"
+    ],
+    "pros": [
+      "Legendary reliability",
+      "Serious off-road capability",
+      "New turbo engine"
+    ],
+    "cons": [
+      "Ride is rough on road",
+      "Fuel economy poor",
+      "Expensive for a mid-size truck"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=Tacoma+TRD",
+    "reviews": [
+      {
+        "author": "Larry W.",
+        "rating": 4.5,
+        "title": "The trail king",
+        "body": "New Tacoma is a massive improvement. Turbo engine is peppy. Still a tank off-road."
+      },
+      {
+        "author": "Sandy M.",
+        "rating": 4.3,
+        "title": "Worth the wait",
+        "body": "Finally a modern interior in a Tacoma. Still tough as nails."
+      }
+    ]
+  },
+  {
+    "id": "c062",
+    "make": "Honda",
+    "model": "HR-V",
+    "variant": "EX-L",
+    "year": 2025,
+    "price": 29500,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 158,
+    "mileage": 12.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "ABS",
+      "Leather Seats",
+      "Sunroof",
+      "Honda Sensing",
+      "Wireless CarPlay"
+    ],
+    "pros": ["Spacious for its class", "Upscale interior", "Good visibility"],
+    "cons": ["Underpowered", "No AWD option in all trims", "Slow CVT"],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=HR-V+EXL",
+    "reviews": [
+      {
+        "author": "Diana J.",
+        "rating": 4.2,
+        "title": "Right-sized SUV",
+        "body": "Perfect for a single person or couple. Spacious enough without being huge."
+      }
+    ]
+  },
+  {
+    "id": "c063",
+    "make": "Hyundai",
+    "model": "Kona Electric",
+    "variant": "Limited",
+    "year": 2025,
+    "price": 38500,
+    "bodyType": "suv",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 201,
+    "mileage": 6.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.5,
+    "features": [
+      "ABS",
+      "Heated Seats",
+      "Wireless Charging",
+      "Digital Key",
+      "Vehicle-to-Load"
+    ],
+    "pros": ["Affordable EV with good range", "Funky design", "Feature-rich"],
+    "cons": ["FWD only", "Not the quickest", "Tight rear seat"],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Kona+EV",
+    "reviews": [
+      {
+        "author": "Irene P.",
+        "rating": 4.4,
+        "title": "City EV champ",
+        "body": "Perfect size for city driving. Charges fast and has great range for the price."
+      }
+    ]
+  },
+  {
+    "id": "c064",
+    "make": "Kia",
+    "model": "Carnival",
+    "variant": "SX Prestige",
+    "year": 2025,
+    "price": 47000,
+    "bodyType": "minivan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 3500,
+    "horsepower": 290,
+    "mileage": 10.2,
+    "seatingCapacity": 7,
+    "safetyRating": 4.5,
+    "features": [
+      "ABS",
+      "Dual Sunroof",
+      "Heated/Ventilated VIP Seats",
+      "Surround View Camera",
+      "Bose Audio"
+    ],
+    "pros": [
+      "Doesn't look like a minivan",
+      "VIP second-row seats",
+      "Powerful V6"
+    ],
+    "cons": [
+      "Fuel economy average",
+      "Third row tight for adults",
+      "Heavy vehicle"
+    ],
+    "imageUrl": "https://placehold.co/400x250/533483/eee?text=Carnival+SX",
+    "reviews": [
+      {
+        "author": "Grace H.",
+        "rating": 4.6,
+        "title": "Cool minivan",
+        "body": "Finally a minivan I'm not embarrassed to drive. VIP lounge seats are incredible."
+      },
+      {
+        "author": "Bobby K.",
+        "rating": 4.3,
+        "title": "Family approved",
+        "body": "Kids love the dual screens. We love the space. Win-win."
+      }
+    ]
+  },
+  {
+    "id": "c065",
+    "make": "Toyota",
+    "model": "Sienna",
+    "variant": "XSE",
+    "year": 2025,
+    "price": 43000,
+    "bodyType": "minivan",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 245,
+    "mileage": 15.3,
+    "seatingCapacity": 7,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "Hybrid",
+      "ABS",
+      "Kick Sensor Power Doors",
+      "JBL Audio"
+    ],
+    "pros": ["36 mpg for a minivan", "Standard hybrid", "AWD available"],
+    "cons": ["CVT can be noisy", "Less powerful feel", "Stiff ride"],
+    "imageUrl": "https://placehold.co/400x250/1a1a2e/eee?text=Sienna+XSE",
+    "reviews": [
+      {
+        "author": "Helen T.",
+        "rating": 4.5,
+        "title": "Hybrid minivan hero",
+        "body": "36 mpg in a minivan is crazy. Saves so much on gas for school runs and road trips."
+      }
+    ]
+  },
+  {
+    "id": "c066",
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "variant": "Pinnacle PHEV",
+    "year": 2025,
+    "price": 57000,
+    "bodyType": "minivan",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 3600,
+    "horsepower": 260,
+    "mileage": 12.8,
+    "seatingCapacity": 7,
+    "safetyRating": 4.4,
+    "features": [
+      "ABS",
+      "Plug-in Hybrid",
+      "Stow 'n Go Seats",
+      "UConnect Theater",
+      "Dual Sunroof"
+    ],
+    "pros": [
+      "32 miles EV range",
+      "Stow 'n Go seats",
+      "Rear entertainment system"
+    ],
+    "cons": [
+      "Expensive Pinnacle trim",
+      "FWD only",
+      "Chrysler reliability concerns"
+    ],
+    "imageUrl": "https://placehold.co/400x250/c0c0c0/333?text=Pacifica+PHEV",
+    "reviews": [
+      {
+        "author": "Janet S.",
+        "rating": 4.2,
+        "title": "Best minivan features",
+        "body": "Stow 'n Go seats are genius. EV mode covers the school run perfectly."
+      }
+    ]
+  },
+  {
+    "id": "c067",
+    "make": "Honda",
+    "model": "Odyssey",
+    "variant": "Elite",
+    "year": 2025,
+    "price": 50000,
+    "bodyType": "minivan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 3500,
+    "horsepower": 280,
+    "mileage": 10.2,
+    "seatingCapacity": 8,
+    "safetyRating": 4.6,
+    "features": [
+      "ABS",
+      "CabinWatch",
+      "CabinTalk",
+      "Wireless CarPlay",
+      "Magic Slide Seats"
+    ],
+    "pros": [
+      "Honda reliability",
+      "CabinWatch camera system",
+      "Magic Slide seats"
+    ],
+    "cons": ["No hybrid option", "Pricey Elite trim", "Dated infotainment"],
+    "imageUrl": "https://placehold.co/400x250/16213e/eee?text=Odyssey+Elite",
+    "reviews": [
+      {
+        "author": "Monica R.",
+        "rating": 4.5,
+        "title": "Reliable family hauler",
+        "body": "CabinWatch lets me keep an eye on the kids. Magic Slide seats are so flexible."
+      }
+    ]
+  },
+  {
+    "id": "c068",
+    "make": "Ford",
+    "model": "Escape",
+    "variant": "PHEV",
+    "year": 2025,
+    "price": 39000,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 210,
+    "mileage": 17.0,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": [
+      "ABS",
+      "Plug-in Hybrid",
+      "Co-Pilot360",
+      "Wireless CarPlay",
+      "Heated Seats"
+    ],
+    "pros": [
+      "37 miles EV range",
+      "Good hybrid fuel economy",
+      "Affordable PHEV"
+    ],
+    "cons": [
+      "Interior feels dated",
+      "Not as refined as Japanese rivals",
+      "FWD only for PHEV"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=Escape+PHEV",
+    "reviews": [
+      {
+        "author": "Roger N.",
+        "rating": 4.2,
+        "title": "Plug-in value",
+        "body": "EV range covers my commute. Fill up with gas maybe twice a month now."
+      }
+    ]
+  },
+  {
+    "id": "c069",
+    "make": "Chevrolet",
+    "model": "Bolt EV",
+    "variant": "2LT",
+    "year": 2024,
+    "price": 28000,
+    "bodyType": "hatchback",
+    "fuelType": "electric",
+    "transmission": "automatic",
+    "engineCapacityCC": null,
+    "horsepower": 200,
+    "mileage": 7.2,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "ABS",
+      "One Pedal Driving",
+      "10.2\" Touchscreen",
+      "Surround Vision"
+    ],
+    "pros": ["Most affordable EV", "Zippy around town", "Decent range"],
+    "cons": ["No fast charging standard", "Cheap interior", "No AWD"],
+    "imageUrl": "https://placehold.co/400x250/2d4059/eee?text=Bolt+EV",
+    "reviews": [
+      {
+        "author": "Eugene C.",
+        "rating": 4.1,
+        "title": "Budget EV king",
+        "body": "Under $28K for an EV with 250+ miles of range. Hard to argue with that value."
+      },
+      {
+        "author": "Terry B.",
+        "rating": 4.0,
+        "title": "City commuter perfection",
+        "body": "Perfect for city driving. One pedal driving is addictive once you get used to it."
+      }
+    ]
+  },
+  {
+    "id": "c070",
+    "make": "Hyundai",
+    "model": "Venue",
+    "variant": "SEL",
+    "year": 2024,
+    "price": 21500,
+    "bodyType": "hatchback",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1600,
+    "horsepower": 121,
+    "mileage": 13.6,
+    "seatingCapacity": 5,
+    "safetyRating": 4.0,
+    "features": [
+      "ABS",
+      "8\" Touchscreen",
+      "Apple CarPlay",
+      "Blind Spot Collision Warning"
+    ],
+    "pros": [
+      "Cheapest SUV-style vehicle",
+      "Easy to park",
+      "Decent feature list"
+    ],
+    "cons": ["Very slow", "No AWD", "Feels flimsy at highway speeds"],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Venue+SEL",
+    "reviews": [
+      {
+        "author": "Judy W.",
+        "rating": 3.8,
+        "title": "Budget city car",
+        "body": "Gets the job done for city driving. Don't expect to win any races though."
+      }
+    ]
+  },
+  {
+    "id": "c071",
+    "make": "Kia",
+    "model": "Forte",
+    "variant": "GT",
+    "year": 2024,
+    "price": 24500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1600,
+    "horsepower": 201,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "ABS",
+      "GT Sport Seats",
+      "Dual Exhaust",
+      "Wireless CarPlay",
+      "LED Headlights"
+    ],
+    "pros": [
+      "Sporty for the price",
+      "Well-equipped",
+      "Fun turbocharged engine"
+    ],
+    "cons": ["FWD torque steer", "Road noise", "Drum brakes in rear"],
+    "imageUrl": "https://placehold.co/400x250/533483/eee?text=Forte+GT",
+    "reviews": [
+      {
+        "author": "Scott P.",
+        "rating": 4.3,
+        "title": "Budget hot sedan",
+        "body": "201 hp for under $25K? Yes please. Punchy turbo makes every drive fun."
+      }
+    ]
+  },
+  {
+    "id": "c072",
+    "make": "Mazda",
+    "model": "CX-90",
+    "variant": "PHEV Premium Plus",
+    "year": 2025,
+    "price": 56000,
+    "bodyType": "suv",
+    "fuelType": "hybrid",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 323,
+    "mileage": 12.3,
+    "seatingCapacity": 7,
+    "safetyRating": 4.6,
+    "features": [
+      "AWD",
+      "Plug-in Hybrid",
+      "Nappa Leather",
+      "Panoramic Sunroof",
+      "12.3\" Display"
+    ],
+    "pros": [
+      "Near-luxury for mainstream price",
+      "323 hp PHEV",
+      "Beautiful interior"
+    ],
+    "cons": [
+      "Third row tight",
+      "PHEV EV range limited",
+      "Complex infotainment"
+    ],
+    "imageUrl": "https://placehold.co/400x250/e94560/fff?text=CX-90+PHEV",
+    "reviews": [
+      {
+        "author": "Tiffany B.",
+        "rating": 4.5,
+        "title": "Premium without the price tag",
+        "body": "Interior rivals Lexus. PHEV gives guilt-free city driving."
+      }
+    ]
+  },
+  {
+    "id": "c073",
+    "make": "Nissan",
+    "model": "Frontier",
+    "variant": "PRO-4X",
+    "year": 2025,
+    "price": 42500,
+    "bodyType": "truck",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 3800,
+    "horsepower": 310,
+    "mileage": 9.4,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "4WD",
+      "ABS",
+      "Bilstein Shocks",
+      "Skid Plates",
+      "Locking Rear Diff"
+    ],
+    "pros": ["Powerful V6", "Serious off-road hardware", "Comfortable cabin"],
+    "cons": ["Fuel economy poor", "Dated tech inside", "Rides rough on-road"],
+    "imageUrl": "https://placehold.co/400x250/4a4e69/eee?text=Frontier+PRO4X",
+    "reviews": [
+      {
+        "author": "Kevin B.",
+        "rating": 4.3,
+        "title": "Off-road truck done right",
+        "body": "Bilstein shocks and locking diff handle everything I throw at it."
+      }
+    ]
+  },
+  {
+    "id": "c074",
+    "make": "Subaru",
+    "model": "WRX",
+    "variant": "Premium",
+    "year": 2025,
+    "price": 32000,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "manual",
+    "engineCapacityCC": 2400,
+    "horsepower": 271,
+    "mileage": 10.6,
+    "seatingCapacity": 5,
+    "safetyRating": 4.2,
+    "features": [
+      "AWD",
+      "ABS",
+      "Drive Mode Select",
+      "Recaro Seats",
+      "Brembo Brakes"
+    ],
+    "pros": ["AWD rally heritage", "271 hp turbo boxer", "Manual available"],
+    "cons": ["Harsh ride", "Dated infotainment", "Cheap interior plastics"],
+    "imageUrl": "https://placehold.co/400x250/0b8457/eee?text=WRX+Premium",
+    "reviews": [
+      {
+        "author": "Andrew G.",
+        "rating": 4.4,
+        "title": "Rally car for the street",
+        "body": "AWD turbo with a manual. Nothing else like it in this price range."
+      },
+      {
+        "author": "Kelly S.",
+        "rating": 4.1,
+        "title": "Thrilling but rough",
+        "body": "So fun to drive but the ride is pretty stiff for daily commuting."
+      }
+    ]
+  },
+  {
+    "id": "c075",
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "variant": "SE",
+    "year": 2024,
+    "price": 32000,
+    "bodyType": "hatchback",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 241,
+    "mileage": 11.5,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "ABS",
+      "Plaid Seats",
+      "Digital Cockpit Pro",
+      "Performance Monitor",
+      "DCC Adaptive Chassis"
+    ],
+    "pros": [
+      "Perfectly balanced hot hatch",
+      "Iconic plaid seats",
+      "Practical + fun"
+    ],
+    "cons": [
+      "DSG can be jerky at low speeds",
+      "Premium fuel required",
+      "Capacitive buttons annoying"
+    ],
+    "imageUrl": "https://placehold.co/400x250/3f72af/eee?text=Golf+GTI",
+    "reviews": [
+      {
+        "author": "Adam F.",
+        "rating": 4.7,
+        "title": "Hot hatch benchmark",
+        "body": "241 hp, plaid seats, hatchback practicality. The GTI does it all."
+      },
+      {
+        "author": "Samantha E.",
+        "rating": 4.4,
+        "title": "Daily driver AND fun car",
+        "body": "No compromise needed. Fun on weekends, practical on weekdays."
+      }
+    ]
+  },
+  {
+    "id": "c076",
+    "make": "Audi",
+    "model": "A3",
+    "variant": "Premium Plus 40 TFSI",
+    "year": 2024,
+    "price": 40000,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 201,
+    "mileage": 12.8,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": [
+      "AWD",
+      "ABS",
+      "Virtual Cockpit",
+      "Bang & Olufsen Audio",
+      "Ambient Lighting"
+    ],
+    "pros": [
+      "Entry-level Audi luxury",
+      "Quattro AWD",
+      "Compact and easy to park"
+    ],
+    "cons": ["Tight rear seat", "Costly options", "Less trunk than Jetta"],
+    "imageUrl": "https://placehold.co/400x250/7a0bc0/eee?text=Audi+A3",
+    "reviews": [
+      {
+        "author": "Natalie G.",
+        "rating": 4.2,
+        "title": "Baby Audi charm",
+        "body": "Has the Audi DNA in a compact package. Quattro is a must for winter driving."
+      }
+    ]
+  },
+  {
+    "id": "c077",
+    "make": "Mercedes-Benz",
+    "model": "CLA",
+    "variant": "CLA 250 4MATIC",
+    "year": 2024,
+    "price": 43000,
+    "bodyType": "coupe",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2000,
+    "horsepower": 221,
+    "mileage": 12.3,
+    "seatingCapacity": 5,
+    "safetyRating": 4.3,
+    "features": ["AWD", "ABS", "MBUX", "Ambient Lighting", "Wireless CarPlay"],
+    "pros": [
+      "Gorgeous coupe styling",
+      "MBUX infotainment",
+      "Accessible Mercedes price"
+    ],
+    "cons": ["Firm ride", "Rear headroom limited", "Base engine just adequate"],
+    "imageUrl": "https://placehold.co/400x250/3c1642/eee?text=CLA+250",
+    "reviews": [
+      {
+        "author": "Crystal M.",
+        "rating": 4.3,
+        "title": "Entry luxury done right",
+        "body": "Looks like a $60K car but costs much less. Love the ambient lighting at night."
+      }
+    ]
+  },
+  {
+    "id": "c078",
+    "make": "Ford",
+    "model": "Explorer",
+    "variant": "ST",
+    "year": 2025,
+    "price": 55000,
+    "bodyType": "suv",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 3000,
+    "horsepower": 400,
+    "mileage": 9.4,
+    "seatingCapacity": 7,
+    "safetyRating": 4.4,
+    "features": [
+      "AWD",
+      "ABS",
+      "ST-Tuned Suspension",
+      "B&O Audio",
+      "Panoramic Sunroof"
+    ],
+    "pros": [
+      "400 hp V6 is thrilling",
+      "Three rows of seats",
+      "ST handling upgrades"
+    ],
+    "cons": [
+      "Fuel economy terrible",
+      "Heavy SUV",
+      "Interior feels behind competitors"
+    ],
+    "imageUrl": "https://placehold.co/400x250/1b262c/eee?text=Explorer+ST",
+    "reviews": [
+      {
+        "author": "Randy F.",
+        "rating": 4.3,
+        "title": "Fast family hauler",
+        "body": "400 hp in a 3-row SUV? Yes please. Handles way better than it should."
+      }
+    ]
+  },
+  {
+    "id": "c079",
+    "make": "Hyundai",
+    "model": "Sonata",
+    "variant": "SEL Plus",
+    "year": 2024,
+    "price": 29500,
+    "bodyType": "sedan",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 2500,
+    "horsepower": 191,
+    "mileage": 13.6,
+    "seatingCapacity": 5,
+    "safetyRating": 4.4,
+    "features": [
+      "ABS",
+      "Panoramic Sunroof",
+      "Blind Spot Monitor",
+      "Wireless CarPlay",
+      "Digital Key"
+    ],
+    "pros": ["Bold styling", "Feature-rich for the price", "Spacious interior"],
+    "cons": ["No AWD", "Numb steering", "Wind noise at highway speeds"],
+    "imageUrl": "https://placehold.co/400x250/0f3460/eee?text=Sonata+SEL",
+    "reviews": [
+      {
+        "author": "Donna J.",
+        "rating": 4.2,
+        "title": "Stylish value",
+        "body": "Turns heads and doesn't break the bank. Interior is way nicer than expected."
+      },
+      {
+        "author": "Peter M.",
+        "rating": 4.3,
+        "title": "Great commuter car",
+        "body": "Comfortable seats for long drives. Good fuel economy. Solid choice."
+      }
+    ]
+  },
+  {
+    "id": "c080",
+    "make": "Nissan",
+    "model": "Kicks",
+    "variant": "SR",
+    "year": 2025,
+    "price": 23000,
+    "bodyType": "hatchback",
+    "fuelType": "petrol",
+    "transmission": "automatic",
+    "engineCapacityCC": 1600,
+    "horsepower": 122,
+    "mileage": 14.0,
+    "seatingCapacity": 5,
+    "safetyRating": 4.0,
+    "features": [
+      "ABS",
+      "Bose Personal Plus Audio",
+      "Around View Monitor",
+      "Wireless CarPlay"
+    ],
+    "pros": ["Affordable", "Bose Personal Plus is unique", "Good fuel economy"],
+    "cons": ["Underpowered", "No AWD", "CVT saps any fun"],
+    "imageUrl": "https://placehold.co/400x250/4a4e69/eee?text=Kicks+SR",
+    "reviews": [
+      {
+        "author": "Alice T.",
+        "rating": 3.9,
+        "title": "Budget commuter",
+        "body": "Great price for what you get. Bose speakers in the headrest are surprisingly good."
+      }
+    ]
+  }
+]

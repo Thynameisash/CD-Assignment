@@ -1,0 +1,25 @@
+{
+  "name": "carfinder",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "npm run dev --workspace=backend",
+    "dev:client": "npm run dev --workspace=frontend",
+    "lint": "eslint . --ext .js,.jsx",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.3.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.15.0",
+    "recharts": "^3.8.1"
+  }
+}
