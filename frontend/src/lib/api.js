@@ -1,4 +1,6 @@
-const BASE = '/api';
+const BASE = import.meta.env.PROD 
+  ? 'https://cd-assignment.onrender.com/api'
+  : '/api';
 
 async function request(url, options = {}) {
   const res = await fetch(`${BASE}${url}`, {
