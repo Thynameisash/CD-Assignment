@@ -1,0 +1,30 @@
+[build]
+# Build command - runs npm run build which builds frontend and prepares backend
+command = "npm run build"
+# Directory to deploy - this is the frontend build output
+publish = "frontend/dist"
+# Node version
+node_version = "20"
+
+[context.production]
+command = "npm run build"
+publish = "frontend/dist"
+
+# Environment variables
+[build.environment]
+NODE_VERSION = "20"
+NPM_VERSION = "10"
+
+# Redirect all API calls to your backend
+# If backend is deployed separately, update the BACKEND_URL environment variable
+[[redirects]]
+from = "/api/*"
+to = "/.netlify/functions/api/:splat"
+status = 200
+force = false
+
+# SPA routing - redirect all non-file requests to index.html
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
